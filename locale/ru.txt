@@ -1,0 +1,25 @@
+#: locale=ru
+
+## Медиа
+
+### Заголовок
+panorama_A68F7790_BEF8_3E22_41D8_23ACBBBEBE19.label = 1 пк
+panorama_A6B647D0_BEF8_3E21_41E7_5DECF66AE191.label = 10 пк
+panorama_A68A382E_BEF8_F27E_41D4_D15F944991B6.label = 2 пк
+panorama_A68DC8EE_BEF8_33FE_41C8_AABBB657FA97.label = 3 пк
+panorama_A68F6CCE_BEF8_7221_41D5_A100EE09176B.label = 4 пк
+panorama_A6B066BB_BEF9_DE66_41D2_C438282A8626.label = 5 пк
+panorama_A6B738D9_BEF9_D223_41DE_958758D66B1E.label = 6 пк
+panorama_A683089E_BEF8_5221_41DE_29071DDB56B4.label = 7 пк
+panorama_A6B75344_BEF8_3621_41E2_6BF3E7B36005.label = 8 пк
+panorama_A68E52B3_BEF8_F666_41E3_83E41FBF4CF8.label = 9 пк
+panorama_A624D027_BEFF_D26E_41E5_A9ADE8DDEC21.label = вход в пк
+panorama_A68B2154_BEF8_3222_41D2_9E22F04565B9.label = вход в пк2
+panorama_A688A147_BEF8_722E_41E4_CAEC891B313D.label = ресепшен пк
+
+## Тур
+
+### Заголовок
+tour.name = Реклама (Дублировано) (Дублировано)
+
+### Описание
